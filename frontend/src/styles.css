@@ -1,0 +1,11 @@
+img {
+    object-fit: contain;
+    height: 200;
+    align-content: center;
+    padding-top: 1in;
+    padding-bottom: 1in;
+    padding-left: 5.25in;
+    padding-right: 5.25in;
+    display: flex;
+    opacity: 55%;
+  }

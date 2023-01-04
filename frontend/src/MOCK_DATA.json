@@ -1,0 +1,3355 @@
+[
+    {
+       "code": "ANTH 2990",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Thesis Preparation",
+       "time": "TBA"
+     },
+     {
+       "code": "APMA 2990",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Thesis Preparation",
+       "time": "TBA"
+     },
+     {
+       "code": "ASYR 2990",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Thesis Preparation",
+       "time": "TBA"
+     },
+     {
+       "code": "BIOL 2970",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Preliminary Examination Preparation",
+       "time": "TBA"
+     },
+     {
+       "code": "BIOL 2990",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Thesis Preparation",
+       "time": "TBA"
+     },
+     {
+       "code": "CHEM 2970",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Preliminary Examination Preparation",
+       "time": "TBA"
+     },
+     {
+       "code": "TAPS 0030",
+       "enrollment status": false,
+       "instructor": "",
+       "name": "Introduction to Acting and Directing",
+       "time": ""
+     },
+     {
+       "code": "BIOL 1150",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Stem Cell Engineering",
+       "time": ""
+     },
+     {
+       "code": "TAPS 0100",
+       "enrollment status": false,
+       "instructor": "TBD",
+       "name": "Playwriting I",
+       "time": "F 1-3:50p"
+     },
+     {
+       "code": "TAPS 0200",
+       "enrollment status": false,
+       "instructor": "R. Reddick",
+       "name": "Playwriting II",
+       "time": "T 1-3:50p"
+     },
+     {
+       "code": "CSCI 1951T",
+       "enrollment status": true,
+       "instructor": "D. Laidlaw",
+       "name": "Surveying VR Data Visualization Software for Research",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "ENGN 2501",
+       "enrollment status": true,
+       "instructor": "G. Taubin",
+       "name": "Digital Geometry Processing",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "CSCI 1430",
+       "enrollment status": true,
+       "instructor": "J. Tompkin",
+       "name": "Computer Vision",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "ENGN 2912Q",
+       "enrollment status": true,
+       "instructor": "D. Pacifici",
+       "name": "Coherence of Light in Nanooptics and Plasmonics",
+       "time": "MW 8:30-9:50a"
+     },
+     {
+       "code": "CSCI 1440",
+       "enrollment status": false,
+       "instructor": "A. Greenwald",
+       "name": "Algorithmic Game Theory",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "CSCI 1470",
+       "enrollment status": true,
+       "instructor": "R. Singh",
+       "name": "Deep Learning",
+       "time": "MWF 12-12:50p"
+     },
+     {
+       "code": "CSCI 2470",
+       "enrollment status": true,
+       "instructor": "R. Singh",
+       "name": "Deep Learning",
+       "time": "MWF 12-12:50p"
+     },
+     {
+       "code": "COLT 1813Q",
+       "enrollment status": false,
+       "instructor": "S. Stewart-Steinberg",
+       "name": "Literature and Judgement",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "CSCI 1620",
+       "enrollment status": true,
+       "instructor": "DeMarinis/Palazzi",
+       "name": "Computer Systems Security Lab",
+       "time": "TBA"
+     },
+     {
+       "code": "CSCI 1660",
+       "enrollment status": false,
+       "instructor": "Palazzi/DeMarinis",
+       "name": "Introduction to Computer Systems Security",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "CSCI 1670",
+       "enrollment status": true,
+       "instructor": "T. Doeppner",
+       "name": "Operating Systems",
+       "time": "MWF 2-2:50p"
+     },
+     {
+       "code": "CSCI 1690",
+       "enrollment status": true,
+       "instructor": "T. Doeppner",
+       "name": "Operating Systems Laboratory",
+       "time": "TBA"
+     },
+     {
+       "code": "CSCI 1710",
+       "enrollment status": true,
+       "instructor": "T. Nelson",
+       "name": "Logic for Systems",
+       "time": "MWF 10-10:50a"
+     },
+     {
+       "code": "CSCI 1800",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Cybersecurity and International Relations",
+       "time": ""
+     },
+     {
+       "code": "CSCI 1950U",
+       "enrollment status": false,
+       "instructor": "D. Ritchie",
+       "name": "Topics in 3D Game Engine Development",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "CSCI 1951A",
+       "enrollment status": true,
+       "instructor": "L. De Stefani",
+       "name": "Data Science",
+       "time": "MW 3-4:20p"
+     },
+     {
+       "code": "CSCI 1951L",
+       "enrollment status": true,
+       "instructor": "M. Herlihy",
+       "name": "Blockchains and Cryptocurrencies",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "CSCI 2240",
+       "enrollment status": true,
+       "instructor": "D. Ritchie",
+       "name": "Interactive Computer Graphics",
+       "time": "MWF 11-11:50a"
+     },
+     {
+       "code": "CSCI 2270",
+       "enrollment status": true,
+       "instructor": "S. Zdonik",
+       "name": "Topics in Database Management",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "BIOL 1530",
+       "enrollment status": false,
+       "instructor": "Becker/Karim",
+       "name": "Emergency Medical Systems: An Anatomy of Critical Performance",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "CSCI 2300",
+       "enrollment status": false,
+       "instructor": "J. Huang",
+       "name": "Human-­Computer Interaction Seminar",
+       "time": "W 4:30-7p"
+     },
+     {
+       "code": "CSCI 2440",
+       "enrollment status": false,
+       "instructor": "A. Greenwald",
+       "name": "Advanced Algorithmic Game Theory",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "CSCI 2951O",
+       "enrollment status": false,
+       "instructor": "S. Kadioglu",
+       "name": "Foundations of Prescriptive Analytics",
+       "time": "F 3-5:30p"
+     },
+     {
+       "code": "CSCI 2951U",
+       "enrollment status": false,
+       "instructor": "V. Kemerlis",
+       "name": "Topics in Software Security",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "CSCI 2951X",
+       "enrollment status": true,
+       "instructor": "G. Konidaris",
+       "name": "Reintegrating AI",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "ENGN 1450",
+       "enrollment status": true,
+       "instructor": "D. Paine",
+       "name": "Properties and Processing of Electronic Materials",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "ENGN 1700",
+       "enrollment status": true,
+       "instructor": "K. Breuer",
+       "name": "Fluid Mechanics of Aerospace and Energy Systems",
+       "time": "MWF 1-1:50p"
+     },
+     {
+       "code": "ENGN 1840",
+       "enrollment status": true,
+       "instructor": "M. Rodriguez",
+       "name": "Numerical Methods in Engineering",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "ENGN 2370B",
+       "enrollment status": true,
+       "instructor": "K. Kim",
+       "name": "Topics in Solid and Structural Mechanics",
+       "time": "MWF 1-1:50p"
+     },
+     {
+       "code": "ENGN 2430",
+       "enrollment status": true,
+       "instructor": "S. Kumar",
+       "name": "Deformation Behavior of Materials",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "ENGN 2125",
+       "enrollment status": false,
+       "instructor": "M. Norige",
+       "name": "Engineering Management + Decision Making",
+       "time": "T 3-6p"
+     },
+     {
+       "code": "ENGN 2180",
+       "enrollment status": false,
+       "instructor": "H. Ansari",
+       "name": "Globalization Immersion Experience and Entrepreneurship Laboratory",
+       "time": "Th 3-6p"
+     },
+     {
+       "code": "ENGN 1931H",
+       "enrollment status": true,
+       "instructor": "B. Gibbs",
+       "name": "Capital Formation & Financing Growth",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "HIST 0659A",
+       "enrollment status": false,
+       "instructor": "A. Jacobs",
+       "name": "Excessive Force: State Violence, Vigilantism, and the History of \"Law and Order\" America",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "HIST 0678A",
+       "enrollment status": false,
+       "instructor": "S. Murrell",
+       "name": "What Do Concubines Have to Do with It?  Gender, Sexuality, and Status in the Premodern World",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "ENGL 0101B",
+       "enrollment status": true,
+       "instructor": "A. Smailbegovic",
+       "name": "Earth Poetics: Literature and Climate Change",
+       "time": "MWF 1-1:50p"
+     },
+     {
+       "code": "ENGL 0100M",
+       "enrollment status": true,
+       "instructor": "R. Reichman",
+       "name": "Writing War",
+       "time": "MWF 11-11:50a"
+     },
+     {
+       "code": "ENGL 0710T",
+       "enrollment status": false,
+       "instructor": "T. Katz",
+       "name": "Reading New York",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "ENGN 2095",
+       "enrollment status": true,
+       "instructor": "S. Sloman",
+       "name": "Psychological Perspectives on Strategic Decision Making",
+       "time": "TBA"
+     },
+     {
+       "code": "TAPS 1280K",
+       "enrollment status": true,
+       "instructor": "M. Bach-Coulibaly",
+       "name": "Mindfulness and Movement: Interoceptive Expressive Arts",
+       "time": "MWF 10-11:50a"
+     },
+     {
+       "code": "ENGN 2030",
+       "enrollment status": true,
+       "instructor": "B. Tannenbaum",
+       "name": "Persuasive Communication",
+       "time": "TBA"
+     },
+     {
+       "code": "ENGN 2040",
+       "enrollment status": true,
+       "instructor": "R. Rose",
+       "name": "Leadership and Professional Development",
+       "time": "TBA"
+     },
+     {
+       "code": "ENGN 2800",
+       "enrollment status": true,
+       "instructor": "R. Beresford",
+       "name": "Critical Challenge Project",
+       "time": "TBA"
+     },
+     {
+       "code": "TAPS 1281O",
+       "enrollment status": false,
+       "instructor": "K. Moore",
+       "name": "Acting Outside the Box: Race, Class, Gender and Sexuality in Performance",
+       "time": "TTh 1-3:50p"
+     },
+     {
+       "code": "PHIL 0561",
+       "enrollment status": false,
+       "instructor": "TBD",
+       "name": "Love and Friendship: A Moral Psychological Perspective",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "PHIL 0023",
+       "enrollment status": false,
+       "instructor": "TBD",
+       "name": "Gender Metaphysics from Marginalized Perspectives",
+       "time": "MWF 10-10:50a"
+     },
+     {
+       "code": "PHIL 2105",
+       "enrollment status": true,
+       "instructor": "M. Gill",
+       "name": "Plato's Sophist and Statesman",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "AFRI 2015",
+       "enrollment status": true,
+       "instructor": "B. Meeks",
+       "name": "Revolt and Revolution in the Black World",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "TAPS 1281X",
+       "enrollment status": false,
+       "instructor": "R. Cesario",
+       "name": "Costume Design",
+       "time": "TTh 10:30a-12:20p"
+     },
+     {
+       "code": "ECON 1680",
+       "enrollment status": false,
+       "instructor": "A. Handlan",
+       "name": "Machine Learning, Text Analysis, and Economics",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "ANTH 1930",
+       "enrollment status": true,
+       "instructor": "R. Carter",
+       "name": "Anthropology Thesis Workshop",
+       "time": "Th 1:30-3:50p"
+     },
+     {
+       "code": "JAPN 0812",
+       "enrollment status": true,
+       "instructor": "N. McPherson",
+       "name": "Japanese Language and Society through Contemporary Film",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "POLS 0200",
+       "enrollment status": true,
+       "instructor": "D. Choi",
+       "name": "Introduction to Comparative Politics",
+       "time": "MW 3-4:20p"
+     },
+     {
+       "code": "APMA 2580B",
+       "enrollment status": true,
+       "instructor": "C. Shu",
+       "name": "Computational Fluid Dynamics for Compressible Flows",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "HISP 0200",
+       "enrollment status": true,
+       "instructor": "S. Sobral",
+       "name": "Basic Spanish",
+       "time": "MW 9-9:50a; TTh 9-10:20a"
+     },
+     {
+       "code": "HISP 0300",
+       "enrollment status": true,
+       "instructor": "N. Vila",
+       "name": "Intermediate Spanish I",
+       "time": "MW 10-10:50a; TTh 10:30-11:50a"
+     },
+     {
+       "code": "HISP 0400",
+       "enrollment status": true,
+       "instructor": "F. Chiaramonte",
+       "name": "Intermediate Spanish II",
+       "time": "MW 9-9:50a; TTh 9-10:20a"
+     },
+     {
+       "code": "HISP 0500",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Advanced Spanish I",
+       "time": ""
+     },
+     {
+       "code": "GREK 0200",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Essentials of the Greek Language",
+       "time": "MWF 9-9:50a"
+     },
+     {
+       "code": "GREK 0400",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Introduction to Greek Literature",
+       "time": "MWF 9-9:50a"
+     },
+     {
+       "code": "LATN 0200",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Essentials of the Latin Language",
+       "time": "MWF 10-10:50a"
+     },
+     {
+       "code": "GREK 0110",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Intensive Introduction to Ancient Greek",
+       "time": "MTWThF 12-12:50p"
+     },
+     {
+       "code": "LATN 0110",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Intensive Introduction to Latin",
+       "time": "MTWThF 12-12:50p"
+     },
+     {
+       "code": "GREK 1050B",
+       "enrollment status": true,
+       "instructor": "A. Scafuro",
+       "name": "Euripides",
+       "time": "MWF 1-1:50p"
+     },
+     {
+       "code": "LATN 1820",
+       "enrollment status": true,
+       "instructor": "J. Debrohun",
+       "name": "Survey of Roman Literature II: Empire",
+       "time": "MWF 1-1:50p"
+     },
+     {
+       "code": "SANS 0200",
+       "enrollment status": true,
+       "instructor": "D. Buchta",
+       "name": "Elementary Sanskrit II",
+       "time": "MWF 1-1:50p"
+     },
+     {
+       "code": "CLAS 1210",
+       "enrollment status": true,
+       "instructor": "G. Oliver",
+       "name": "Mediterranean Culture Wars: Archaic Greek History, c. 1200 to 479 BC",
+       "time": "MWF 2-2:50p"
+     },
+     {
+       "code": "LATN 1110H",
+       "enrollment status": true,
+       "instructor": "J. Pucci",
+       "name": "Literature at the Court of Charlemagne",
+       "time": "MWF 2-2:50p"
+     },
+     {
+       "code": "LATN 0400",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Introduction to Latin Literature",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "SANS 1800",
+       "enrollment status": true,
+       "instructor": "D. Buchta",
+       "name": "Classical Schools of Indian Philosophy",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "CLAS 0995",
+       "enrollment status": false,
+       "instructor": "D. Buchta",
+       "name": "India’s Classical Performing Arts",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "CLAS 1120E",
+       "enrollment status": true,
+       "instructor": "J. Bodel",
+       "name": "Slavery in the Ancient World",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "CLAS 1770",
+       "enrollment status": true,
+       "instructor": "A. Scafuro",
+       "name": "Ancient Law, Society and Jurisprudence",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "LATN 1110P",
+       "enrollment status": true,
+       "instructor": "S. Eccleston",
+       "name": "Lucan's Civil War",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "CLAS 2010B",
+       "enrollment status": true,
+       "instructor": "A. Russell",
+       "name": "Roman Topography",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "CLAS 2930A",
+       "enrollment status": true,
+       "instructor": "J. Reed",
+       "name": "Alexandrian Poetry",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "HISP 0600",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Advanced Spanish II",
+       "time": ""
+     },
+     {
+       "code": "TAPS 1341",
+       "enrollment status": false,
+       "instructor": "P. Seto-Weiss",
+       "name": "Introduction to Ballet",
+       "time": "TTh 2:30-4:20p"
+     },
+     {
+       "code": "TAPS 1344",
+       "enrollment status": false,
+       "instructor": "P. Seto-Weiss",
+       "name": "Advanced Ballet with Repertory",
+       "time": "TTh 5-6:50p"
+     },
+     {
+       "code": "TAPS 1251C",
+       "enrollment status": false,
+       "instructor": "A. Haynes",
+       "name": "Scenic Properties and the Props Artisan",
+       "time": "WF 3-6p"
+     },
+     {
+       "code": "LACA 1503V",
+       "enrollment status": false,
+       "instructor": "T. Empkie",
+       "name": "Health of Hispaniola",
+       "time": "TTh 6:40-8p"
+     },
+     {
+       "code": "LITR 0100A",
+       "enrollment status": false,
+       "instructor": "TBD",
+       "name": "Introduction to Fiction",
+       "time": "F 3-5:30p"
+     },
+     {
+       "code": "LITR 0110A",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Fiction I",
+       "time": ""
+     },
+     {
+       "code": "LITR 0110B",
+       "enrollment status": false,
+       "instructor": "",
+       "name": "Poetry I",
+       "time": ""
+     },
+     {
+       "code": "LITR 0110H",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Digital & Cross-Disciplinary Language Arts 1",
+       "time": ""
+     },
+     {
+       "code": "LITR 0210B",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Poetry Writing II",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "CHEM 0330L",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Equilibrium, Rate, and Structure Lab",
+       "time": ""
+     },
+     {
+       "code": "CHEM 0350L",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Organic Chemistry I Lab",
+       "time": ""
+     },
+     {
+       "code": "PHP 1680U",
+       "enrollment status": false,
+       "instructor": "M. Agénor",
+       "name": "Intersectionality and Health Inequities",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "PHP 1950",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Adolescent and Young Adult Health",
+       "time": "M 9-11:30a"
+     },
+     {
+       "code": "PHP 2060",
+       "enrollment status": false,
+       "instructor": "Collins/Rosen",
+       "name": "Qualitative Methods in Health Research",
+       "time": "F 9-11:30a"
+     },
+     {
+       "code": "PHP 2080",
+       "enrollment status": true,
+       "instructor": "L. Tobin-Tyler",
+       "name": "Public Health Law and Policy",
+       "time": "MW 10:30-11:50a"
+     },
+     {
+       "code": "PHP 2120",
+       "enrollment status": true,
+       "instructor": "S. McBurney",
+       "name": "Introduction to Methods in Epidemiologic Research",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "PHP 2130",
+       "enrollment status": true,
+       "instructor": "K. Kelsey",
+       "name": "Human Biology for Public Health",
+       "time": "F 9:30a-12p"
+     },
+     {
+       "code": "PHP 2071",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Applied Public Health: Systems and Practice",
+       "time": ""
+     },
+     {
+       "code": "PHP 2180",
+       "enrollment status": true,
+       "instructor": "S. Buka",
+       "name": "Interpretation and Application of Epidemiology",
+       "time": "Th 2:30-5p"
+     },
+     {
+       "code": "PHP 2200",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Intermediate Methods in Epidemiologic Research",
+       "time": ""
+     },
+     {
+       "code": "PHP 2355",
+       "enrollment status": false,
+       "instructor": "",
+       "name": "Designing and Evaluating Public Health Interventions",
+       "time": ""
+     },
+     {
+       "code": "PHP 2380",
+       "enrollment status": false,
+       "instructor": "K. Carey",
+       "name": "Health Communication",
+       "time": "M 2:30-5p"
+     },
+     {
+       "code": "PHP 2400",
+       "enrollment status": true,
+       "instructor": "C. Koller",
+       "name": "The U.S. Health Care System: Case Studies in Financing, Delivery, Regulation and Public Health",
+       "time": "F 1-4:30p"
+     },
+     {
+       "code": "PHP 2415",
+       "enrollment status": false,
+       "instructor": "K. Konnyu",
+       "name": "Introduction to Evidence-based Medicine",
+       "time": "W 9-11:30a"
+     },
+     {
+       "code": "PHP 2455B",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Health Services Research Methods II",
+       "time": ""
+     },
+     {
+       "code": "PHP 2470",
+       "enrollment status": true,
+       "instructor": "C. Kistin",
+       "name": "Topics in Clinical, Translational and Health Services Research",
+       "time": "Th 3:30-5p"
+     },
+     {
+       "code": "PHP 2516",
+       "enrollment status": true,
+       "instructor": "A. Murillo",
+       "name": "Applied Longitudinal Data Analysis",
+       "time": "MW 9-10:20a"
+     },
+     {
+       "code": "PHP 2517",
+       "enrollment status": true,
+       "instructor": "A. Murillo",
+       "name": "Applied Multilevel Data Analysis",
+       "time": "MW 9-10:20a"
+     },
+     {
+       "code": "PHP 2530",
+       "enrollment status": true,
+       "instructor": "R. Gutman",
+       "name": "Bayesian Statistical Methods",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "PHP 2561",
+       "enrollment status": true,
+       "instructor": "Chen/Sarkar",
+       "name": "Methods in Informatics and Data Science for Health",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "PHP 2580",
+       "enrollment status": true,
+       "instructor": "C. Gatsonis",
+       "name": "Statistical Inference II",
+       "time": "MW 10:30-11:50a"
+     },
+     {
+       "code": "PHP 2605",
+       "enrollment status": true,
+       "instructor": "A. Eloyan",
+       "name": "Generalized Linear Models",
+       "time": "MW 1-2:20p"
+     },
+     {
+       "code": "PHP 2650",
+       "enrollment status": true,
+       "instructor": "A. Paul",
+       "name": "Statistical Learning and Big Data",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "HIAA 2860H",
+       "enrollment status": true,
+       "instructor": "D. Nickel",
+       "name": "Special Topics: Photography: Reception and Response",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "GNSS 2020P",
+       "enrollment status": false,
+       "instructor": "A. Abdur-Rahman",
+       "name": "Pembroke Research Seminar: In the Afterlives and Aftermaths of Ruin",
+       "time": "W 10a-12:30p"
+     },
+     {
+       "code": "HIST 1217",
+       "enrollment status": true,
+       "instructor": "M. Steinberg",
+       "name": "The Cultural History of Democracy",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "SOC 0300N",
+       "enrollment status": false,
+       "instructor": "E. Rauscher",
+       "name": "Social Inequality: Change and Continuity in the U.S.",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "SOC 2960O",
+       "enrollment status": true,
+       "instructor": "J. Diamond",
+       "name": "Sociology Of Race and Education",
+       "time": "T 1-4p"
+     },
+     {
+       "code": "PHIL 2710",
+       "enrollment status": true,
+       "instructor": "J. Schechter",
+       "name": "Recent Debates in the Philosophy of Logic",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "MCM 0150",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Text/Media/Culture: Theories of Modern Culture and Media",
+       "time": ""
+     },
+     {
+       "code": "MCM 0700A",
+       "enrollment status": false,
+       "instructor": "",
+       "name": "Introduction to the Production Image",
+       "time": ""
+     },
+     {
+       "code": "ENGL 0511P",
+       "enrollment status": false,
+       "instructor": "B. Parker",
+       "name": "Severed Selves: Victorian Horror and Science Fiction",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "MCM 0902T",
+       "enrollment status": true,
+       "instructor": "H. Lawrence",
+       "name": "Media Epistemologies: Propaganda, Conspiracies, and Other Ways of (Not) Knowing",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "ANTH 1840",
+       "enrollment status": false,
+       "instructor": "Faudree/AnderBois",
+       "name": "Indigenous Languages of the Americas: An Introduction",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "MCM 1204K",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "From Analog to Analogue: Digitality and Ephemerality in Audiovisual Archives",
+       "time": ""
+     },
+     {
+       "code": "MCM 1505B",
+       "enrollment status": false,
+       "instructor": "",
+       "name": "Hitchcock: The Theory",
+       "time": ""
+     },
+     {
+       "code": "HISP 1331Q",
+       "enrollment status": true,
+       "instructor": "M. Clayton",
+       "name": "Las raras: escritoras y artistas latinoamericanas",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "AMST 2221C",
+       "enrollment status": true,
+       "instructor": "S. Lee",
+       "name": "Afro-Asian America",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "APMA 2070",
+       "enrollment status": false,
+       "instructor": "Karniadakis/Shukla",
+       "name": "Deep Learning for Scientists & Engineers",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "NEUR 1065",
+       "enrollment status": true,
+       "instructor": "J. Simmons",
+       "name": "Biology of Hearing",
+       "time": "MWF 1-1:50p"
+     },
+     {
+       "code": "ARCH 1155",
+       "enrollment status": false,
+       "instructor": "P. Van Dommelen",
+       "name": "Cities, Colonies and Global Networks in the Western Mediterranean",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "HIST 1977J",
+       "enrollment status": false,
+       "instructor": "H. Cook",
+       "name": "War and Medicine since the Renaissance",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "UNIV 1207",
+       "enrollment status": false,
+       "instructor": "A. Nichols",
+       "name": "Eco-Entrepreneurship",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "HIST 1382",
+       "enrollment status": true,
+       "instructor": "G. Rocha",
+       "name": "The Environmental History of Latin America",
+       "time": "MWF 10-10:50a"
+     },
+     {
+       "code": "PHIL 1580",
+       "enrollment status": false,
+       "instructor": "R. Heck",
+       "name": "Philosophy of Sex",
+       "time": "MWF 1-1:50p"
+     },
+     {
+       "code": "CHIN 0911",
+       "enrollment status": true,
+       "instructor": "Y. Wang",
+       "name": "Business Chinese",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "HIAA 0190",
+       "enrollment status": false,
+       "instructor": "J. Von Der Schulenburg",
+       "name": "Advanced Design Studio",
+       "time": "W 12-4:50p"
+     },
+     {
+       "code": "ETHN 1200M",
+       "enrollment status": false,
+       "instructor": "L. Alvarado",
+       "name": "Latinx in Graphic Detail",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "EEPS 1960A",
+       "enrollment status": true,
+       "instructor": "Tsai/Hirth",
+       "name": "Earthquakes and the Rheology of the Crust and Mantle",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "SOC 1873T",
+       "enrollment status": true,
+       "instructor": "N. Bavbek",
+       "name": "Contemporary Social Theory",
+       "time": "F 3-5:30p"
+     },
+     {
+       "code": "HIAA 0085",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "German Architecture after World War Two",
+       "time": ""
+     },
+     {
+       "code": "COLT 0711L",
+       "enrollment status": true,
+       "instructor": "E. Muhanna",
+       "name": "The Quran and its Readers",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "BIOL 0150D",
+       "enrollment status": false,
+       "instructor": "T. Achilli",
+       "name": "Techniques in Regenerative Medicine: Cells, Scaffolds and Staining",
+       "time": "MF 1-4p"
+     },
+     {
+       "code": "SOC 0300I",
+       "enrollment status": true,
+       "instructor": "P. Carter",
+       "name": "From Macro to Micro: Experiencing Education (In)equality in and beyond Schools",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "PHIL 1675",
+       "enrollment status": true,
+       "instructor": "E. Guindon",
+       "name": "Set Theory",
+       "time": "MWF 1-1:50p"
+     },
+     {
+       "code": "ETHN 1751F",
+       "enrollment status": false,
+       "instructor": "S. Lee",
+       "name": "Race in U.S. Cities and Suburbs",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "ENGN 0150",
+       "enrollment status": true,
+       "instructor": "A. Peterson",
+       "name": "Principles of Chemical and Atomistic Engineering",
+       "time": "MWF 12-12:50p"
+     },
+     {
+       "code": "MDVL 0360",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Medieval Bodies: Medieval Perspectives",
+       "time": "F 3-5:30p"
+     },
+     {
+       "code": "ENGN 1932D",
+       "enrollment status": false,
+       "instructor": "A. Kingon",
+       "name": "Qualitative Market Research for Entrepreneurs & Business Innovators",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "ECON 2400",
+       "enrollment status": true,
+       "instructor": "P. Hull",
+       "name": "Applied Econometrics II",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "APMA 1940Y",
+       "enrollment status": false,
+       "instructor": "M. Ainsworth",
+       "name": "Wavelets and Applications",
+       "time": "MWF 10-10:50a"
+     },
+     {
+       "code": "CSCI 2002",
+       "enrollment status": false,
+       "instructor": "D. Hurley",
+       "name": "Privacy and Personal Data Protection",
+       "time": "Course offered online"
+     },
+     {
+       "code": "EAST 0010",
+       "enrollment status": true,
+       "instructor": "B. Bossler",
+       "name": "Beyond Orientalism: Understanding “East Asia”",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "PHP 2360",
+       "enrollment status": true,
+       "instructor": "B. Marcus",
+       "name": "Developing + Testing Theory-Driven, Evidence Based Psychosocial and Behavioral Health Interventions",
+       "time": "W 1-3:30p"
+     },
+     {
+       "code": "ANTH 2515",
+       "enrollment status": true,
+       "instructor": "R. Preucel",
+       "name": "Material Matters",
+       "time": "F 3-5:30p"
+     },
+     {
+       "code": "TAPS 1281A",
+       "enrollment status": false,
+       "instructor": "Fitzgerald/Moore",
+       "name": "Director/Designer Collaborative Studio",
+       "time": "M 1-4:50p"
+     },
+     {
+       "code": "EEPS 0160M",
+       "enrollment status": false,
+       "instructor": "C. Dalton",
+       "name": "Natural Disasters",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "ANTH 1515",
+       "enrollment status": false,
+       "instructor": "K. Mason",
+       "name": "Anthropology of Mental Health",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "ENVS 1911",
+       "enrollment status": false,
+       "instructor": "Demuth/Rush",
+       "name": "Narrating the Anthropocene",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "ENGN 1350",
+       "enrollment status": false,
+       "instructor": "R. Zenit",
+       "name": "Art Fluids Engineering",
+       "time": "MWF 10-10:50a"
+     },
+     {
+       "code": "CLAS 1930F",
+       "enrollment status": true,
+       "instructor": "S. Eccleston",
+       "name": "Women Writing Epic",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "ECON 2340",
+       "enrollment status": true,
+       "instructor": "L. Lagos",
+       "name": "Labor Economics II",
+       "time": "MW 9-10:20a"
+     },
+     {
+       "code": "MCM 2110Y",
+       "enrollment status": true,
+       "instructor": "E. Rooney",
+       "name": "The Literary Fact and the Work of Critique",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "PHP 0850",
+       "enrollment status": true,
+       "instructor": "W. Goedel",
+       "name": "Fundamentals of Epidemiology",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "PHP 1101",
+       "enrollment status": false,
+       "instructor": "P. Risica",
+       "name": "World of Food: Personal to Global Perspectives on Nutrition, Agriculture and Policy",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "PHP 1300",
+       "enrollment status": false,
+       "instructor": "T. von Ash",
+       "name": "Parenting Behaviors and Child Health",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "COLT 1810G",
+       "enrollment status": false,
+       "instructor": "L. Valente",
+       "name": "Fiction and History",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "PHP 2602",
+       "enrollment status": false,
+       "instructor": "J. Steingrimsson",
+       "name": "Analysis of Lifetime Data",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "POLS 1825Q",
+       "enrollment status": true,
+       "instructor": "J. Ziegler",
+       "name": "Capitalism and Democracy in Europe",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "TAPS 0320",
+       "enrollment status": true,
+       "instructor": "M. Bach-Coulibaly",
+       "name": "Dance Composition",
+       "time": "MW 1-2:50p"
+     },
+     {
+       "code": "COLT 2821S",
+       "enrollment status": false,
+       "instructor": "T. Chin",
+       "name": "Historical Form",
+       "time": "F 3-5:30p"
+     },
+     {
+       "code": "ECON 2930",
+       "enrollment status": true,
+       "instructor": "Steinberg/Macchi",
+       "name": "Workshop in Applied Economics",
+       "time": "Th 4-5:30p"
+     },
+     {
+       "code": "ECON 2950",
+       "enrollment status": true,
+       "instructor": "Roth/Norets",
+       "name": "Workshop in Econometrics",
+       "time": "T 4-5:30p"
+     },
+     {
+       "code": "ECON 2960",
+       "enrollment status": true,
+       "instructor": "Eggertsson/Duarte",
+       "name": "Workshop in Macroeconomics and Related Topics",
+       "time": "W 4-5:30p"
+     },
+     {
+       "code": "ECON 2970",
+       "enrollment status": true,
+       "instructor": "B. Pakzad-Hurson",
+       "name": "Workshop in Economic Theory",
+       "time": "M 4-5:30p"
+     },
+     {
+       "code": "CLPS 0700",
+       "enrollment status": false,
+       "instructor": "L. Faille",
+       "name": "Social Psychology",
+       "time": "MW 8:30-9:50a"
+     },
+     {
+       "code": "POLS 1130",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "The American Presidency",
+       "time": ""
+     },
+     {
+       "code": "TAPS 1000",
+       "enrollment status": true,
+       "instructor": "J. Dellecave",
+       "name": "Intermediate Dance",
+       "time": "MW 5-6:20p"
+     },
+     {
+       "code": "PHIL 0403",
+       "enrollment status": true,
+       "instructor": "J. Netter",
+       "name": "Ethics and Politics of Data",
+       "time": "MWF 9-9:50a"
+     },
+     {
+       "code": "ANTH 1720",
+       "enrollment status": false,
+       "instructor": "R. Kalisher",
+       "name": "The Human Skeleton",
+       "time": "MWF 1-1:50p"
+     },
+     {
+       "code": "HIST 1340",
+       "enrollment status": true,
+       "instructor": "J. Mumford",
+       "name": "History of the Andes from Incas to Evo Morales",
+       "time": "MWF 1-1:50p"
+     },
+     {
+       "code": "POBS 1601K",
+       "enrollment status": false,
+       "instructor": "G. Rocha",
+       "name": "Early Modern Global History at the John Carter Brown Library: A Research Workshop",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "MCM 2101E",
+       "enrollment status": false,
+       "instructor": "J. Copjec",
+       "name": "Rumor and Rot",
+       "time": "Th 1-3:30p"
+     },
+     {
+       "code": "SOC 1872O",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Critical Race Theory",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "APMA 1941D",
+       "enrollment status": false,
+       "instructor": "G. Menon",
+       "name": "Pattern Theory",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "EAST 1301",
+       "enrollment status": true,
+       "instructor": "Z. Li",
+       "name": "Word for Word: Linguistic Principles in Chinese-English Translation",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "ENGL 1050S",
+       "enrollment status": false,
+       "instructor": "N. Lake",
+       "name": "Writing the City",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "HIST 0522O",
+       "enrollment status": false,
+       "instructor": "N. Safier",
+       "name": "What is Enlightenment?",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "CLPS 2980",
+       "enrollment status": true,
+       "instructor": "B. Malle",
+       "name": "Foundations of Advanced Statistics",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "ARCH 0770",
+       "enrollment status": false,
+       "instructor": "Y. Hamilakis",
+       "name": "Archaeology of Eating and Drinking",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "AFRI 2300",
+       "enrollment status": true,
+       "instructor": "B. Bogues",
+       "name": "Black Critique: Black Critical Theory - History, Literature, Politics, the Human Sciences of Being",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "PHP 1600",
+       "enrollment status": true,
+       "instructor": "A. Dulin",
+       "name": "Obesity in the 21st Century: Causes, Consequences and Countermeasures",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "CSCI 0200",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Program Design with Data Structures and Algorithms",
+       "time": ""
+     },
+     {
+       "code": "ENVS 1421",
+       "enrollment status": false,
+       "instructor": "M. Hall",
+       "name": "Podcasting For the Common Good: Storytelling with Science",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "ENGN 2500",
+       "enrollment status": true,
+       "instructor": "B. Kimia",
+       "name": "Medical Image Analysis",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "ECON 1960",
+       "enrollment status": true,
+       "instructor": "E. Oster",
+       "name": "Honors Tutorial for Economics Majors",
+       "time": "TBA"
+     },
+     {
+       "code": "EEPS 1960F",
+       "enrollment status": false,
+       "instructor": "R. Cooper",
+       "name": "Patterns: in Nature, in Society",
+       "time": "MW 3-4:20p"
+     },
+     {
+       "code": "HIAA 2920",
+       "enrollment status": true,
+       "instructor": "H. Shaffer",
+       "name": "Methods of Research and Art Historical Interpretation",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "NEUR 2020",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Graduate Proseminar in Neuroscience",
+       "time": "TBA"
+     },
+     {
+       "code": "LITR 0100B",
+       "enrollment status": false,
+       "instructor": "TBD",
+       "name": "Introduction to Poetry",
+       "time": "F 3-5:30p"
+     },
+     {
+       "code": "GREK 1111D",
+       "enrollment status": true,
+       "instructor": "S. Kidd",
+       "name": "Daphnis and Chloe",
+       "time": "MWF 10-10:50a"
+     },
+     {
+       "code": "CLAS 0210F",
+       "enrollment status": true,
+       "instructor": "A. Russell",
+       "name": "The Meaning of History in the Ancient World",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "MATH 2720F",
+       "enrollment status": true,
+       "instructor": "N. Kapouleas",
+       "name": "Topics in Geometric Analysis",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "BIOL 0946",
+       "enrollment status": true,
+       "instructor": "K. Monteiro",
+       "name": "Research Design + Quantitative Methods for the Health Sciences",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "TAPS 1348",
+       "enrollment status": false,
+       "instructor": "S. Baryshnikov",
+       "name": "Contemporary Dance Studio Project",
+       "time": "TThF 12-1:50p"
+     },
+     {
+       "code": "ENVS 1547",
+       "enrollment status": false,
+       "instructor": "TBD",
+       "name": "Finance and the Environment",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "EDUC 0540",
+       "enrollment status": false,
+       "instructor": "P. De Galbert",
+       "name": "Language and Education Policy in Multilingual Contexts",
+       "time": "F 3-5:30p"
+     },
+     {
+       "code": "EDUC 0835",
+       "enrollment status": true,
+       "instructor": "P. De Galbert",
+       "name": "Comparative Education",
+       "time": "MWF 12-12:50p"
+     },
+     {
+       "code": "CSCI 0111",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Computing Foundations: Data",
+       "time": ""
+     },
+     {
+       "code": "ENGL 0300N",
+       "enrollment status": false,
+       "instructor": "E. Rowe",
+       "name": "How To Be Alone: Solitude and Subjectivity",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "ANTH 2060",
+       "enrollment status": true,
+       "instructor": "J. Leinaweaver",
+       "name": "Anthropology Dissertators' Seminar",
+       "time": "T 9-11:30a"
+     },
+     {
+       "code": "ASYR 0320",
+       "enrollment status": true,
+       "instructor": "J. Steele",
+       "name": "The Origin(s) of Science",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "EGYT 1400",
+       "enrollment status": true,
+       "instructor": "C. Cox",
+       "name": "Ethiopia Shall Stretch Forth Her Hands: Black Reception of Ancient Egypt and Nubia",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "BIOL 1610",
+       "enrollment status": false,
+       "instructor": "J. Stein",
+       "name": "Experimental Neurobiology",
+       "time": "W 1-6p"
+     },
+     {
+       "code": "ENGN 2912F",
+       "enrollment status": true,
+       "instructor": "T. Powers",
+       "name": "Soft Matter",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "BIOL 1120",
+       "enrollment status": false,
+       "instructor": "Y. Dingle",
+       "name": "Biomaterials",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "ENGN 2912V",
+       "enrollment status": false,
+       "instructor": "Karniadakis/Shukla",
+       "name": "Deep Learning for Scientists and Engineers",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "HIAA 2725",
+       "enrollment status": true,
+       "instructor": "H. Shaffer",
+       "name": "Methods of South Asian Art History",
+       "time": "W 10a-12:30p"
+     },
+     {
+       "code": "POLS 1445",
+       "enrollment status": true,
+       "instructor": "D. Choi",
+       "name": "Contemporary African Politics",
+       "time": "MW 8:30-9:50a"
+     },
+     {
+       "code": "BIOL 1310",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Developmental Biology",
+       "time": ""
+     },
+     {
+       "code": "BIOL 2310",
+       "enrollment status": true,
+       "instructor": "K. Wharton",
+       "name": "Developmental Biology",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "GREK 1120B",
+       "enrollment status": true,
+       "instructor": "M. Gill",
+       "name": "Plato's 'Phaedrus'",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "LATN 1050",
+       "enrollment status": true,
+       "instructor": "J. Reed",
+       "name": "Horace Satires, Epistles and 'Ars Poetica'",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "CLAS 0920",
+       "enrollment status": true,
+       "instructor": "J. Debrohun",
+       "name": "Roman Mythology",
+       "time": "MWF 11-11:50a"
+     },
+     {
+       "code": "CLAS 1815",
+       "enrollment status": true,
+       "instructor": "J. Pucci",
+       "name": "On the Edges of the Roman World",
+       "time": "MWF 11-11:50a"
+     },
+     {
+       "code": "AFRI 1150",
+       "enrollment status": true,
+       "instructor": "P. Henry",
+       "name": "Afro-Caribbean Philosophy",
+       "time": "MWF 2-2:50p"
+     },
+     {
+       "code": "ENGL 1762M",
+       "enrollment status": false,
+       "instructor": "D. Ramirez-D'Oleo",
+       "name": "Caribbean Literature",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "IAPA 1804B",
+       "enrollment status": true,
+       "instructor": "A. Schrank",
+       "name": "Global Megaprojects",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "IAPA 1403",
+       "enrollment status": false,
+       "instructor": "G. Augusto",
+       "name": "Development's Visual Imaginaries: Still and Moving Images That Shaped the Field",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "IAPA 0400",
+       "enrollment status": false,
+       "instructor": "A. Levitas",
+       "name": "Fiscal Plumbing 101: The American Tax State in Comparative and Historical  Perspective",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "IAPA 1701E",
+       "enrollment status": true,
+       "instructor": "C. Tudor",
+       "name": "Gender and Capitalism",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "IAPA 1402",
+       "enrollment status": false,
+       "instructor": "P. Lewis",
+       "name": "Beyond Sun, Sea and Sand: Exploring the Contemporary Caribbean",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "IAPA 0110",
+       "enrollment status": false,
+       "instructor": "R. Hackey",
+       "name": "Introduction to Public Policy",
+       "time": "TTh 6:40-8p"
+     },
+     {
+       "code": "RELS 0010",
+       "enrollment status": true,
+       "instructor": "M. Satlow",
+       "name": "Happiness and the Pursuit of the Good Life",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "COST 0037",
+       "enrollment status": false,
+       "instructor": "F. Moore-Gerety",
+       "name": "Sensing the Sacred: Sensory Culture in South Asian Religions",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "RELS 0037",
+       "enrollment status": false,
+       "instructor": "F. Moore-Gerety",
+       "name": "Sensing the Sacred: Sensory Culture in South Asian Religions",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "RELS 0085A",
+       "enrollment status": true,
+       "instructor": "Nahme/Willis",
+       "name": "Exodus: Freedom in the Modern Black and Jewish Religious Imaginations",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "RELS 0090F",
+       "enrollment status": true,
+       "instructor": "S. Olyan",
+       "name": "Friendship in the Ancient World",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "RELS 0325",
+       "enrollment status": true,
+       "instructor": "M. Satlow",
+       "name": "How the Bible Became Holy",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "RELS 0340",
+       "enrollment status": true,
+       "instructor": "N. Berman",
+       "name": "Kabbalah: An Introduction to Jewish Mysticism",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "COST 0525",
+       "enrollment status": false,
+       "instructor": "F. Moore-Gerety",
+       "name": "The History and Practice of Yoga in India and Beyond",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "RELS 0525",
+       "enrollment status": true,
+       "instructor": "F. Moore-Gerety",
+       "name": "The History and Practice of Yoga in India and Beyond",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "COST 0535",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Self Transformation and Transcendence in Later Daoist Contemplative Traditions",
+       "time": ""
+     },
+     {
+       "code": "RELS 0535",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Self Transformation and Transcendence in Later Daoist Contemplative Traditions",
+       "time": ""
+     },
+     {
+       "code": "RELS 0800",
+       "enrollment status": true,
+       "instructor": "N. Berman",
+       "name": "Death: Religion, Philosophy, Law",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "RELS 0815",
+       "enrollment status": true,
+       "instructor": "D. Vaca",
+       "name": "Sacred Economy: Religion and Capitalism in the United States",
+       "time": "MWF 11-11:50a"
+     },
+     {
+       "code": "RELS 0845",
+       "enrollment status": false,
+       "instructor": "D. Vaca",
+       "name": "Religious Freedom in America",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "RELS 1430",
+       "enrollment status": false,
+       "instructor": "J. Sawada",
+       "name": "Buddhist Classics",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "RELS 1442",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "The History, Philosophy, and Practice of Rinzai Zen Buddhism",
+       "time": ""
+     },
+     {
+       "code": "RELS 1530B",
+       "enrollment status": true,
+       "instructor": "N. Khalek",
+       "name": "Heresy and Orthodoxy in Islamic Thought",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "RELS 2460",
+       "enrollment status": true,
+       "instructor": "N. Khalek",
+       "name": "Professionalization Seminar",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "COST 0100",
+       "enrollment status": false,
+       "instructor": "",
+       "name": "Introduction to Contemplative Studies",
+       "time": ""
+     },
+     {
+       "code": "COST 1020",
+       "enrollment status": true,
+       "instructor": "S. Lazar",
+       "name": "Cognitive Neuroscience of Meditation",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "COST 1950",
+       "enrollment status": true,
+       "instructor": "L. Difiori",
+       "name": "Senior Concentrators' Seminar",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "HIST 1953Q",
+       "enrollment status": true,
+       "instructor": "V. Zamindar",
+       "name": "Hindu/Muslim: Readings in South Asian History",
+       "time": "TTh 6:40-8p"
+     },
+     {
+       "code": "IAPA 1810",
+       "enrollment status": true,
+       "instructor": "C. Elliott",
+       "name": "Democratization and Autocratization",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "RELS 1385",
+       "enrollment status": true,
+       "instructor": "A. Willis",
+       "name": "Religion and Postmodernism",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "MCM 1505P",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Channeling Race: Television and Race in America",
+       "time": ""
+     },
+     {
+       "code": "ENVS 1415",
+       "enrollment status": false,
+       "instructor": "J. Roberts",
+       "name": "Power, Justice, and Climate Change",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "HIST 1960S",
+       "enrollment status": true,
+       "instructor": "J. Johnson",
+       "name": "North African History: 1800 to Present",
+       "time": "F 3-5:30p"
+     },
+     {
+       "code": "POBS 1800D",
+       "enrollment status": false,
+       "instructor": "L. Lehnen",
+       "name": "Into the Wilderness: An Ecocritical and Decolonial Approach to Imagining Brazil",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "CLPS 1901",
+       "enrollment status": true,
+       "instructor": "L. Welch",
+       "name": "Research Methods",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "EEPS 1650",
+       "enrollment status": true,
+       "instructor": "K. Fischer",
+       "name": "Earthquake Seismology",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "HIAA 0130",
+       "enrollment status": true,
+       "instructor": "J. Von Der Schulenburg",
+       "name": "Architectural Projection",
+       "time": "W 9:20-11:50a"
+     },
+     {
+       "code": "LITR 1151X",
+       "enrollment status": false,
+       "instructor": "S. Nakayasu",
+       "name": "Interdisciplinary Arts Workshop: Translation of Concept",
+       "time": "T 11:55a-2:25p"
+     },
+     {
+       "code": "HIST 0623D",
+       "enrollment status": false,
+       "instructor": "H. Merritt",
+       "name": "The Great Patriotic War: The Soviet Experience of World War II",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "ECON 1480",
+       "enrollment status": true,
+       "instructor": "E. Skarbek",
+       "name": "Public Economics",
+       "time": "MW 3-4:20p"
+     },
+     {
+       "code": "COLT 0710Q",
+       "enrollment status": true,
+       "instructor": "V. Calotychos",
+       "name": "The Odyssey in Literature and Film",
+       "time": "MWF 2-2:50p"
+     },
+     {
+       "code": "ANTH 1940",
+       "enrollment status": true,
+       "instructor": "L. Fruzzetti",
+       "name": "Ethnographic Research Methods",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "IAPA 1200",
+       "enrollment status": false,
+       "instructor": "R. Pauly",
+       "name": "Foundations of Security",
+       "time": "MWF 11-11:50a"
+     },
+     {
+       "code": "POLS 0820I",
+       "enrollment status": false,
+       "instructor": "D. Skarbek",
+       "name": "Crime, Mafias and Prison",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "POLS 1820G",
+       "enrollment status": true,
+       "instructor": "S. Krause",
+       "name": "Politics and Nature",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "POLS 2605",
+       "enrollment status": true,
+       "instructor": "G. Dipoppa",
+       "name": "Quantitative Research Methods III",
+       "time": "W 8:30-11a"
+     },
+     {
+       "code": "CSCI 1360",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Human Factors in Cybersecurity",
+       "time": ""
+     },
+     {
+       "code": "CSCI 1380",
+       "enrollment status": false,
+       "instructor": "N. Vasilakis",
+       "name": "Distributed Computer Systems",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "EEPS 1520",
+       "enrollment status": true,
+       "instructor": "B. Fox-Kemper",
+       "name": "Ocean Circulation and Climate",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "EEPS 2920D",
+       "enrollment status": true,
+       "instructor": "Y. Liang",
+       "name": "Introduction to Geochemical Modeling",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "EEPS 1310",
+       "enrollment status": false,
+       "instructor": "J. Lee",
+       "name": "Global Water Cycle",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "CSCI 1880",
+       "enrollment status": false,
+       "instructor": "B. Palazzi",
+       "name": "Introduction to Computer Security",
+       "time": "Course offered online"
+     },
+     {
+       "code": "CLPS 0800",
+       "enrollment status": true,
+       "instructor": "J. Morgan",
+       "name": "Language and the Mind",
+       "time": "MWF 2-2:50p"
+     },
+     {
+       "code": "ENGN 2912P",
+       "enrollment status": true,
+       "instructor": "P. Felzenszwalb",
+       "name": "Topics in Optimization",
+       "time": "MWF 10-10:50a"
+     },
+     {
+       "code": "AMST 2220R",
+       "enrollment status": false,
+       "instructor": "K. Miller",
+       "name": "Popular Music Studies",
+       "time": "F 3-5:30p"
+     },
+     {
+       "code": "SOC 2960Z",
+       "enrollment status": true,
+       "instructor": "P. Henry",
+       "name": "Social Theory Now",
+       "time": "T 9a-12p"
+     },
+     {
+       "code": "CSCI 2500C",
+       "enrollment status": true,
+       "instructor": "P. Klein",
+       "name": "Graph Theory and Algorithms",
+       "time": "MW 3-4:20p"
+     },
+     {
+       "code": "CSCI 1951Z",
+       "enrollment status": true,
+       "instructor": "S. Venkatasubramanian",
+       "name": "Fairness in Automated Decision Making",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "EEPS 1380",
+       "enrollment status": true,
+       "instructor": "Huang/Ibarra",
+       "name": "Environmental Stable Isotopes",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "STS 2000A",
+       "enrollment status": true,
+       "instructor": "X. Chacko",
+       "name": "Naturecultures: Speculative Futures in Environmental Justice",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "EEPS 1960N",
+       "enrollment status": true,
+       "instructor": "Ibarra/Huang",
+       "name": "Seminar in Analytical Geochemistry",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "APMA 0200",
+       "enrollment status": true,
+       "instructor": "J. Darbon",
+       "name": "Introduction to Modeling",
+       "time": "MWF 12-12:50p"
+     },
+     {
+       "code": "PHP 2440",
+       "enrollment status": true,
+       "instructor": "Hayes/Zullo",
+       "name": "Introduction to Pharmacoepidemiology",
+       "time": "Th 2:30-5p"
+     },
+     {
+       "code": "RELS 2600T",
+       "enrollment status": true,
+       "instructor": "S. Bush",
+       "name": "Religion, Ethics, and Community",
+       "time": "M 10:30a-1p"
+     },
+     {
+       "code": "HIST 2971W",
+       "enrollment status": true,
+       "instructor": "B. Demuth",
+       "name": "Readings in Environmental History",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "MES 0100",
+       "enrollment status": true,
+       "instructor": "A. Winder",
+       "name": "The Middle East: Cultures & Societies",
+       "time": "MWF 10-10:50a"
+     },
+     {
+       "code": "EEPS 2920Y",
+       "enrollment status": true,
+       "instructor": "G. Budde",
+       "name": "Frontiers in Solid Earth Geochemistry",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "POBS 0630B",
+       "enrollment status": true,
+       "instructor": "Lehnen/Spangler",
+       "name": "Lusophone Cities in Literature, Film and Music.",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "EEPS 1720",
+       "enrollment status": false,
+       "instructor": "K. Bergen",
+       "name": "Tackling Climate Change with Machine Learning",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "EAST 0150",
+       "enrollment status": false,
+       "instructor": "H. Wang",
+       "name": "Language, Culture, and Society: Korea",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "PHP 2590",
+       "enrollment status": true,
+       "instructor": "C. Schmid",
+       "name": "Design of Experiments",
+       "time": "MW 1-2:20p"
+     },
+     {
+       "code": "SOC 0300R",
+       "enrollment status": false,
+       "instructor": "L. Lopez Sanders",
+       "name": "The Sociology of Race",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "PHP 2410E",
+       "enrollment status": true,
+       "instructor": "C. Kosar",
+       "name": "Medicare: A Data Based Policy Examination",
+       "time": "Th 12-2:30p"
+     },
+     {
+       "code": "MUSC 2080I",
+       "enrollment status": true,
+       "instructor": "M. Steinberg",
+       "name": "The Question of Voice: Sound, Style, Ideology.",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "CHEM 0600",
+       "enrollment status": true,
+       "instructor": "P. Williard",
+       "name": "Preparative Chemistry Lab",
+       "time": "T 1-4:50p"
+     },
+     {
+       "code": "GNSS 2000",
+       "enrollment status": true,
+       "instructor": "Davis/Sikk",
+       "name": "Method, Evidence, Critique: Gender and Sexuality Studies across the Disciplines",
+       "time": "Th 1-3:30p"
+     },
+     {
+       "code": "CSCI 1952Q",
+       "enrollment status": true,
+       "instructor": "Y. Cheng",
+       "name": "Algorithmic Aspects of Machine Learning",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "ENGN 2260",
+       "enrollment status": true,
+       "instructor": "P. Guduru",
+       "name": "Stress Waves in Solids",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "GRMN 1900Q",
+       "enrollment status": true,
+       "instructor": "T. Kniesche",
+       "name": "Contemporary German Crime Fiction",
+       "time": "MWF 11-11:50a"
+     },
+     {
+       "code": "MATH 1810B",
+       "enrollment status": true,
+       "instructor": "A. Landman",
+       "name": "A Second Course in Linear Algebra",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "VISA 0100",
+       "enrollment status": false,
+       "instructor": "",
+       "name": "Studio Foundation",
+       "time": ""
+     },
+     {
+       "code": "VISA 0120",
+       "enrollment status": false,
+       "instructor": "E. Osborn",
+       "name": "Foundation Media",
+       "time": "TTh 10-11:50a"
+     },
+     {
+       "code": "CSCI 2952O",
+       "enrollment status": false,
+       "instructor": "S. Sridhar",
+       "name": "A Practical Introduction to Advanced 3D Robot Perception",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "VISA 0130",
+       "enrollment status": false,
+       "instructor": "D. Stupar",
+       "name": "Sculpture Foundation",
+       "time": "W 1-4:50p"
+     },
+     {
+       "code": "CSCI 2952N",
+       "enrollment status": false,
+       "instructor": "C. Sun",
+       "name": "Advanced Topics in Deep Learning",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "VISA 1210D",
+       "enrollment status": false,
+       "instructor": "L. Bostrom",
+       "name": "Lithography I & II",
+       "time": "TTh 1-4:50p"
+     },
+     {
+       "code": "CSCI 2670",
+       "enrollment status": true,
+       "instructor": "T. Doeppner",
+       "name": "Operating Systems",
+       "time": "MWF 2-2:50p"
+     },
+     {
+       "code": "VISA 0150",
+       "enrollment status": false,
+       "instructor": "M. Cetilia",
+       "name": "Digital 2D Foundation",
+       "time": "T 1-4:50p"
+     },
+     {
+       "code": "VISA 0160",
+       "enrollment status": false,
+       "instructor": "TBD",
+       "name": "Foundation Painting",
+       "time": "Th 1-4:50p"
+     },
+     {
+       "code": "VISA 1110",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Drawing",
+       "time": ""
+     },
+     {
+       "code": "VISA 1250",
+       "enrollment status": false,
+       "instructor": "TBD",
+       "name": "Art of the Book",
+       "time": "MW 1-4:50p"
+     },
+     {
+       "code": "VISA 1310",
+       "enrollment status": false,
+       "instructor": "L. Tarentino",
+       "name": "Painting I",
+       "time": "MW 9-11:50a"
+     },
+     {
+       "code": "VISA 1340",
+       "enrollment status": false,
+       "instructor": "L. Tarentino",
+       "name": "Accessorizing Painting: The Exalted Surface",
+       "time": "MW 1-3:50p"
+     },
+     {
+       "code": "VISA 1420",
+       "enrollment status": false,
+       "instructor": "P. Myoda",
+       "name": "Sculpture II: Conceptual Propositions",
+       "time": "TTh 12-3:50p"
+     },
+     {
+       "code": "VISA 1510",
+       "enrollment status": false,
+       "instructor": "T. Ganz",
+       "name": "Black and White Photography",
+       "time": "MW 9-11:50a"
+     },
+     {
+       "code": "VISA 1530",
+       "enrollment status": false,
+       "instructor": "T. Ganz",
+       "name": "Digital Photo Bookbinding",
+       "time": "MW 1-3:50p"
+     },
+     {
+       "code": "VISA 1600",
+       "enrollment status": false,
+       "instructor": "H. Metaferia",
+       "name": "Social Practice: Art in Everyday Life",
+       "time": "W 1-4:50p"
+     },
+     {
+       "code": "VISA 1800P",
+       "enrollment status": false,
+       "instructor": "H. Bhandari",
+       "name": "Art/Work: Professional Practice for Visual Artists",
+       "time": "F 1-4:50p"
+     },
+     {
+       "code": "AFRI 2005",
+       "enrollment status": true,
+       "instructor": "R. Ater",
+       "name": "Monuments, Counter-Monuments, and the Representation of the Slave Past",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "GRMN 1000B",
+       "enrollment status": true,
+       "instructor": "G. Richter",
+       "name": "Introduction to German Critical Thought II",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "GRMN 2662L",
+       "enrollment status": true,
+       "instructor": "K. Mendicino",
+       "name": "Thinking Unrest: German Idealism and the Traces of History",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "GRMN 2662M",
+       "enrollment status": true,
+       "instructor": "T. Schestag",
+       "name": "… Reading –– Lesen …",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "VISA 0140",
+       "enrollment status": false,
+       "instructor": "M. Krinsky",
+       "name": "Photography Foundation",
+       "time": "Th 4-7:50p"
+     },
+     {
+       "code": "CSCI 1515",
+       "enrollment status": true,
+       "instructor": "P. Miao",
+       "name": "Applied Cryptography",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "CSCI 1951I",
+       "enrollment status": false,
+       "instructor": "L. Kermode",
+       "name": "CS for Social Change",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "POLS 2090E",
+       "enrollment status": true,
+       "instructor": "B. Honig",
+       "name": "Arendt and…",
+       "time": "M 4-6:30p"
+     },
+     {
+       "code": "ENGL 1050H",
+       "enrollment status": false,
+       "instructor": "N. Lake",
+       "name": "Writing Journalism",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "MCM 2510M",
+       "enrollment status": false,
+       "instructor": "J. Li",
+       "name": "Bio-Media",
+       "time": "F 3-5:30p"
+     },
+     {
+       "code": "MCM 0710A",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Introduction to Filmic Practice: Time and Form",
+       "time": ""
+     },
+     {
+       "code": "MCM 0750E",
+       "enrollment status": false,
+       "instructor": "M. Armstrong",
+       "name": "Listening Beyond the Browserscape",
+       "time": "T 10a-12:50p"
+     },
+     {
+       "code": "MCM 1506X",
+       "enrollment status": false,
+       "instructor": "",
+       "name": "Love Hurts: Romance, Media, Masochism",
+       "time": ""
+     },
+     {
+       "code": "MCM 1506O",
+       "enrollment status": false,
+       "instructor": "G. Koch",
+       "name": "Technologies of/and the Body - Mediated Visions",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "MCM 1701V",
+       "enrollment status": false,
+       "instructor": "M. Armstrong",
+       "name": "The Cloud Beneath the Ground, Under sea:",
+       "time": "M 10a-12:50p"
+     },
+     {
+       "code": "MCM 1701U",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Advanced Projects in Film and Video",
+       "time": ""
+     },
+     {
+       "code": "MCM 2120H",
+       "enrollment status": true,
+       "instructor": "G. Koch",
+       "name": "Objects of (and in) Animation",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "COLT 1610V",
+       "enrollment status": false,
+       "instructor": "G. Richter",
+       "name": "The Promise of Being: Heidegger for Beginners",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "EDUC 0560",
+       "enrollment status": false,
+       "instructor": "I. Gil",
+       "name": "Cultivating STEM Identities: Teaching for Equity in the Math and Science Classrooms",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "EGYT 1030",
+       "enrollment status": true,
+       "instructor": "C. Alvarez",
+       "name": "Collapse! Ancient Egypt after the Pyramid Age",
+       "time": "MWF 11-11:50a"
+     },
+     {
+       "code": "EGYT 1320",
+       "enrollment status": true,
+       "instructor": "C. Alvarez",
+       "name": "Introduction to Classical Hieroglyphic Egyptian Writing and Language (Middle Egyptian II)",
+       "time": "MWF 2-2:50p"
+     },
+     {
+       "code": "ITAL 0701",
+       "enrollment status": false,
+       "instructor": "Domini/Riva",
+       "name": "Simulating Reality: The (Curious) History and Science of Immersive Experiences.",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "ENGN 2660",
+       "enrollment status": true,
+       "instructor": "A. Zaslavsky",
+       "name": "Physics and Technology of Semiconductor Heterostructures",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "URBN 1000",
+       "enrollment status": true,
+       "instructor": "J. Pacewicz",
+       "name": "Fieldwork in the Urban Community",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "URBN 1250",
+       "enrollment status": true,
+       "instructor": "J. Pacewicz",
+       "name": "The Political Foundations of the City",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "AFRI 0130",
+       "enrollment status": true,
+       "instructor": "M. Scott",
+       "name": "This is America: Reimagining the American Saga",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "ENGN 1500",
+       "enrollment status": true,
+       "instructor": "B. Kimia",
+       "name": "Medical Image Analysis",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "PHP 1810",
+       "enrollment status": true,
+       "instructor": "A. Tovar",
+       "name": "Community-Engaged Research in Public Health",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "ENGL 1191D",
+       "enrollment status": false,
+       "instructor": "G. Talusan",
+       "name": "Writing Wonder, Joy, and Awe",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "CLPS 1480M",
+       "enrollment status": false,
+       "instructor": "A. Shenhav",
+       "name": "Motivation and Effort",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "ENGN 2000",
+       "enrollment status": true,
+       "instructor": "R. Allio",
+       "name": "Effective Leadership: Theory and Practice",
+       "time": "Course offered online"
+     },
+     {
+       "code": "ENGN 2060",
+       "enrollment status": true,
+       "instructor": "D. Stanford",
+       "name": "Technology Leadership in a Changing Environment",
+       "time": "Course offered online"
+     },
+     {
+       "code": "ITAL 1400S",
+       "enrollment status": true,
+       "instructor": "L. Odello",
+       "name": "Il Femminismo in Italia/Italian Feminism",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "COLT 2720D",
+       "enrollment status": true,
+       "instructor": "E. Whitfield",
+       "name": "Translation: Theory and Practice",
+       "time": "T 1-3:30p"
+     },
+     {
+       "code": "RUSS 0200",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Introductory Russian",
+       "time": ""
+     },
+     {
+       "code": "RUSS 0400",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Intermediate Russian",
+       "time": ""
+     },
+     {
+       "code": "RUSS 0600",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Advanced Russian",
+       "time": ""
+     },
+     {
+       "code": "RUSS 1120",
+       "enrollment status": true,
+       "instructor": "V. Richter",
+       "name": "Special Topics in Russian Studies II: Advanced Reading and Conversation",
+       "time": "MWF 12-12:50p"
+     },
+     {
+       "code": "RUSS 0110",
+       "enrollment status": true,
+       "instructor": "L. deBenedette",
+       "name": "Intensive Russian",
+       "time": "MWF 10-10:50a; MWF 12-12:50p; T 9-10:20a"
+     },
+     {
+       "code": "HISP 2600",
+       "enrollment status": true,
+       "instructor": "I. Montero",
+       "name": "Exploring and Extracting in Colonial Latin American Literatures",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "AMST 2696",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "The Promise of Informal Learning",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "IAPA 1700B",
+       "enrollment status": false,
+       "instructor": "M. Rosenberg",
+       "name": "Investigating Modes of Social Change",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "IAPA 1700A",
+       "enrollment status": true,
+       "instructor": "W. Sheldon",
+       "name": "Program Evaluation",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "IAPA 1804H",
+       "enrollment status": false,
+       "instructor": "S. Kinzer",
+       "name": "Early History of the CIA",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "IAPA 1700D",
+       "enrollment status": false,
+       "instructor": "A. Gabinet",
+       "name": "Law and Public Policy",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "CLPS 1400",
+       "enrollment status": false,
+       "instructor": "R. Burwell",
+       "name": "The Neural Bases of Cognition",
+       "time": "F 3-5:30p"
+     },
+     {
+       "code": "TAPS 1170",
+       "enrollment status": true,
+       "instructor": "R. Christopher",
+       "name": "Acting Methods for Period Texts",
+       "time": "M 3:30-5:50p"
+     },
+     {
+       "code": "GNSS 1510A",
+       "enrollment status": false,
+       "instructor": "",
+       "name": "Reproductive In/Justice",
+       "time": ""
+     },
+     {
+       "code": "MCM 1205F",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Black Queer Diasporas",
+       "time": ""
+     },
+     {
+       "code": "EDUC 0870",
+       "enrollment status": true,
+       "instructor": "T. Kelly",
+       "name": "Perspectives on Multilingual Learners in US Schools",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "JAPN 0711",
+       "enrollment status": true,
+       "instructor": "K. Yamashita",
+       "name": "Japanese Linguistics",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "PHP 2220E",
+       "enrollment status": true,
+       "instructor": "T. Zheng",
+       "name": "Topics in Environmental and Occupational Epidemiology",
+       "time": "Th 9:30a-12p"
+     },
+     {
+       "code": "PHP 2090B",
+       "enrollment status": true,
+       "instructor": "J. Braun",
+       "name": "Research Grant Writing for Public Health-Part B",
+       "time": "Th 9:30a-12p"
+     },
+     {
+       "code": "PHP 1670",
+       "enrollment status": false,
+       "instructor": "H. Ziobrowski",
+       "name": "Public Mental Health: A Framework for Studying and Preventing Mental Disorders",
+       "time": "F 1-3:30p"
+     },
+     {
+       "code": "EDUC 0110",
+       "enrollment status": true,
+       "instructor": "J. Collins",
+       "name": "Democracy and Education",
+       "time": "MWF 2-2:50p"
+     },
+     {
+       "code": "CZCH 0100",
+       "enrollment status": true,
+       "instructor": "M. Fidler",
+       "name": "Introductory Czech",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "IAPA 1700E",
+       "enrollment status": false,
+       "instructor": "W. Allen",
+       "name": "Nonprofit Organizations",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "RUSS 1820",
+       "enrollment status": true,
+       "instructor": "V. Golstein",
+       "name": "Dostoevsky",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "PLSH 0400",
+       "enrollment status": true,
+       "instructor": "P. Duda",
+       "name": "Intermediate Polish",
+       "time": "MTThF 12-12:50p"
+     },
+     {
+       "code": "UNIV 0123",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Practical Introduction to Peer Advising",
+       "time": ""
+     },
+     {
+       "code": "STS 1700B",
+       "enrollment status": true,
+       "instructor": "L. Robinson",
+       "name": "Race, War, and Medicine",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "ARCH 0763",
+       "enrollment status": false,
+       "instructor": "Z. Dunseth",
+       "name": "The Private Life of the Privy: A Secret History of Toilets",
+       "time": "MWF 2-2:50p"
+     },
+     {
+       "code": "CHEM 1560Q",
+       "enrollment status": true,
+       "instructor": "B. Rubenstein",
+       "name": "Accelerating Chemical Discovery",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "MUSC 1917",
+       "enrollment status": false,
+       "instructor": "K. Wolf",
+       "name": "Music and Socialism",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "RUSS 1220",
+       "enrollment status": true,
+       "instructor": "F. Fenghi",
+       "name": "Nationalism and Nationalities",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "PHIL 0555",
+       "enrollment status": true,
+       "instructor": "R. Doody",
+       "name": "Choice, Commerce, and Conflict: An Introduction to PPE",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "PHIL 1470",
+       "enrollment status": true,
+       "instructor": "F. Ackerman",
+       "name": "Ethics in the Novel",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "LACA 1503Z",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Neoliberalism and cross-border regions in Latin America and the Caribbean",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "PHP 1551",
+       "enrollment status": true,
+       "instructor": "Cassidy/Murphy",
+       "name": "Substance Use Prevention, Treatment, & Policy",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "ASYR 2710",
+       "enrollment status": true,
+       "instructor": "J. Steele",
+       "name": "Babylonian Astronomy",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "JAPN 1010",
+       "enrollment status": true,
+       "instructor": "K. Yamashita",
+       "name": "Readings in Contemporary Japanese Fiction",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "URBN 1871G",
+       "enrollment status": true,
+       "instructor": "L. Yapp",
+       "name": "Urban Asia: Beyond Tradition, Modernity, and Crisis",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "RUSS 1857",
+       "enrollment status": true,
+       "instructor": "M. Oklot",
+       "name": "Russian Intellectual History",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "ASYR 1010",
+       "enrollment status": true,
+       "instructor": "M. Chapuis",
+       "name": "Intermediate Akkadian",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "GNSS 1610",
+       "enrollment status": false,
+       "instructor": "H. Sikk",
+       "name": "Transnational Feminisms",
+       "time": "T 3-5:30p"
+     },
+     {
+       "code": "LITR 1152H",
+       "enrollment status": false,
+       "instructor": "E. Hunt",
+       "name": "Writing from the Archives/In the Subjunctive Mood",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "ENGN 2460",
+       "enrollment status": true,
+       "instructor": "L. Caretta",
+       "name": "Electronic and Magnetic Materials Design",
+       "time": "MW 8:30-9:50a"
+     },
+     {
+       "code": "URBN 0215",
+       "enrollment status": false,
+       "instructor": "L. Yapp",
+       "name": "Urban Life in the Global South",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "RUSS 1230",
+       "enrollment status": false,
+       "instructor": "J. Colleyshaw",
+       "name": "Putin’s Russia – Fact or Fiction",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "CSCI 0130",
+       "enrollment status": false,
+       "instructor": "T. Massachi",
+       "name": "User Interfaces and User Experience",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "STS 1700A",
+       "enrollment status": false,
+       "instructor": "E. Rogers",
+       "name": "Disability and Sexuality: Politics of Desire and Desirability",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "AMST 0192K",
+       "enrollment status": false,
+       "instructor": "C. Cunfer",
+       "name": "Rethinking Sex: Critical Approaches to Compulsory Sexuality",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "EDUC 1615",
+       "enrollment status": false,
+       "instructor": "C. Thomas",
+       "name": "Introduction to Community-Based Participatory Research in Education",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "AMST 0192P",
+       "enrollment status": true,
+       "instructor": "K. Weygold",
+       "name": "Black Internationalism",
+       "time": "TTh 6:40-8p"
+     },
+     {
+       "code": "SAST 0525",
+       "enrollment status": true,
+       "instructor": "F. Moore-Gerety",
+       "name": "The History and Practice of Yoga in India and Beyond",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "SAST 0037",
+       "enrollment status": true,
+       "instructor": "F. Moore-Gerety",
+       "name": "Sensing the Sacred: Sensory Culture in South Asian Religions",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "HIAA 1432",
+       "enrollment status": false,
+       "instructor": "B. Langendorfer",
+       "name": "Borderlands: Art and Culture between Rome and Iran",
+       "time": "W 1-3:30p"
+     },
+     {
+       "code": "AFRI 2020",
+       "enrollment status": true,
+       "instructor": "A. LeSure",
+       "name": "Afro-pessimism and Its Kin",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "AFRI 1145",
+       "enrollment status": false,
+       "instructor": "D. Swails",
+       "name": "The Black Hero",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "PHP 2670",
+       "enrollment status": true,
+       "instructor": "S. Chrysanthopoulou",
+       "name": "Simulation Models for Public Health Decision Making",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "MES 1199",
+       "enrollment status": true,
+       "instructor": "A. Ophir",
+       "name": "Anti-Semitism, Racism, Anti-Zionism: Debates, Contexts, Stakes",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "ENGL 0700O",
+       "enrollment status": false,
+       "instructor": "D. Brown",
+       "name": "The Great Debate: Wright, Hurston, and the Meaning of Twentieth-Century Black American Literature",
+       "time": "MWF 12-12:50p"
+     },
+     {
+       "code": "SAST 0700B",
+       "enrollment status": false,
+       "instructor": "W. Lodge",
+       "name": "Introduction to Modern South Asia: Public Health From Theory to Practice",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "IAPA 1404",
+       "enrollment status": false,
+       "instructor": "A. Subramanian",
+       "name": "Economic Development of China and India",
+       "time": "T 9-11:30a"
+     },
+     {
+       "code": "LITR 1152I",
+       "enrollment status": false,
+       "instructor": "E. Hunt",
+       "name": "Poets' Tour of the Essay",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "AMST 1905Z",
+       "enrollment status": false,
+       "instructor": "B. Haviland",
+       "name": "Eyes on the Prize: Literary Fiction as Cultural Capital",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "AMST 1906D",
+       "enrollment status": false,
+       "instructor": "D. Weinstein",
+       "name": "Bodies of Knowledge: Health and Disease in American Culture",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "POBS 1601T",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Regimes of Contention in Southern Europe",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "CSCI 1952B",
+       "enrollment status": true,
+       "instructor": "J. Netter",
+       "name": "Responsible Computer Science in Practice",
+       "time": "MW 3-4:20p"
+     },
+     {
+       "code": "HIAA 1470",
+       "enrollment status": false,
+       "instructor": "L. Chilson-Parks",
+       "name": "The Lactating, Menstruating Christ:  Constructing and Depicting Gender in Late Medieval Europe",
+       "time": "F 3-5:30p"
+     },
+     {
+       "code": "ENGL 1050O",
+       "enrollment status": false,
+       "instructor": "G. Talusan",
+       "name": "Writing the Asian American Experience",
+       "time": "TTh 6:40-8p"
+     },
+     {
+       "code": "COLT 1815U",
+       "enrollment status": true,
+       "instructor": "H. Silverblank",
+       "name": "Encountering Monsters in Comparative Literature",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "AFRI 0807",
+       "enrollment status": true,
+       "instructor": "N. Rooks",
+       "name": "Racism, Segregation, Poverty and Public Education in the United States",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "PHIL 2041",
+       "enrollment status": true,
+       "instructor": "C. Larmore",
+       "name": "Sartre",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "EAST 1502",
+       "enrollment status": false,
+       "instructor": "E. Choi",
+       "name": "The Korea “Brand”: Understanding KPop, Film, and Culture of the Two Koreas in the Global Context",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "MES 1301",
+       "enrollment status": true,
+       "instructor": "F. Pinar",
+       "name": "Interventions and Activism in the Contemporary Middle East",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "GNSS 1961Y",
+       "enrollment status": false,
+       "instructor": "M. Hovhannisyan",
+       "name": "Gaps and Silences: In and Out of the Archives",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "CHIN 1040",
+       "enrollment status": true,
+       "instructor": "L. Wang",
+       "name": "Modern Chinese Literature",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "IAPA 1700L",
+       "enrollment status": false,
+       "instructor": "D. Casler",
+       "name": "U.S. Grand Strategy",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "MUSC 1290V",
+       "enrollment status": false,
+       "instructor": "A. Vistein",
+       "name": "Akousmatikoi: Studies in Spatialized Sound",
+       "time": "F 3-5:30p"
+     },
+     {
+       "code": "CSCI 2660",
+       "enrollment status": false,
+       "instructor": "Palazzi/DeMarinis",
+       "name": "Computer Systems Security",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "EEPS 0160A",
+       "enrollment status": false,
+       "instructor": "S. McGrath",
+       "name": "Climate Justice",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "EEPS 0160Z",
+       "enrollment status": true,
+       "instructor": "S. Garelick",
+       "name": "Mountains: Past, Present and Future",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "HIAA 0065",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "Introduction to the Built Environment",
+       "time": ""
+     },
+     {
+       "code": "COST 1442",
+       "enrollment status": true,
+       "instructor": "",
+       "name": "The History, Philosophy, and Practice of Rinzai Zen Buddhism",
+       "time": ""
+     },
+     {
+       "code": "UNIV 1801",
+       "enrollment status": false,
+       "instructor": "TBD",
+       "name": "Brown in Washington, D.C. Practicum",
+       "time": "M 2-5p"
+     },
+     {
+       "code": "IAPA 1804M",
+       "enrollment status": false,
+       "instructor": "D. Polatty",
+       "name": "Overcoming Threats to Human Security",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "EAST 1403",
+       "enrollment status": false,
+       "instructor": "J. Sawada",
+       "name": "Buddhist Classics",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "POLS 1825A",
+       "enrollment status": true,
+       "instructor": "P. Charasz",
+       "name": "Political Economy of Development",
+       "time": "F 3-5:30p"
+     },
+     {
+       "code": "POLS 1825B",
+       "enrollment status": true,
+       "instructor": "R. Grace",
+       "name": "The Politics of the Laws of War",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "IAPA 1801V",
+       "enrollment status": false,
+       "instructor": "",
+       "name": "Diplomacy and Development: Related but Different Missions",
+       "time": ""
+     },
+     {
+       "code": "GRMN 1441L",
+       "enrollment status": true,
+       "instructor": "C. Obst",
+       "name": "German Drama (1776-1941)",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "ANTH 0350",
+       "enrollment status": true,
+       "instructor": "M. Berman",
+       "name": "Suffering and Compassion",
+       "time": "MWF 10-10:50a"
+     },
+     {
+       "code": "ARCH 0322",
+       "enrollment status": true,
+       "instructor": "T. Franconi",
+       "name": "Somewhere Back in Time: Archaeology, the Ancient World, and Heavy Metal Music",
+       "time": "MWF 12-12:50p"
+     },
+     {
+       "code": "HIAA 1625",
+       "enrollment status": true,
+       "instructor": "E. Johnson",
+       "name": "Native American Architecture",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "STS 0702",
+       "enrollment status": true,
+       "instructor": "X. Chacko",
+       "name": "Invisible Labor in the Making of Science",
+       "time": "TTh 1-2:20p"
+     },
+     {
+       "code": "IAPA 1700N",
+       "enrollment status": true,
+       "instructor": "G. Bates",
+       "name": "Transitional Justice",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "LACA 1504M",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "In-Transit Identities: Migration in Contemporary Latin American Literature and Popular Culture",
+       "time": "TTh 10:30-11:50a"
+     },
+     {
+       "code": "HISP 0750W",
+       "enrollment status": true,
+       "instructor": "A. Hernandez-Acosta",
+       "name": "Caribe Queer",
+       "time": "TTh 9-10:20a"
+     },
+     {
+       "code": "AFRI 1050L",
+       "enrollment status": true,
+       "instructor": "E. Terry-Morgan",
+       "name": "RPM Playwriting: Advanced and Staging",
+       "time": "TBA"
+     },
+     {
+       "code": "RELS 0265",
+       "enrollment status": true,
+       "instructor": "C. DiBona",
+       "name": "Philosophy as Spiritual Practice",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "EAST 1702",
+       "enrollment status": true,
+       "instructor": "M. Dotulong",
+       "name": "Pacific Indigeneities: From Māori Mythology to James Cameron’s Avatar",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "MES 1501",
+       "enrollment status": true,
+       "instructor": "A. Takriti",
+       "name": "The Palestinian Revolution, 1948-1982",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "COLT 1310R",
+       "enrollment status": true,
+       "instructor": "N. Kahn",
+       "name": "Native Resistance Leaders in Anglo-American and Indigenous Literary Perspectives",
+       "time": "TTh 2:30-3:50p"
+     },
+     {
+       "code": "AFRI 1075",
+       "enrollment status": true,
+       "instructor": "D. Ritchie",
+       "name": "Providence Housing Ecosystem, Development, Displacement and Gentrification",
+       "time": "W 3-5:30p"
+     },
+     {
+       "code": "TAPS 1500P",
+       "enrollment status": false,
+       "instructor": "S. Skiles",
+       "name": "Asian American Theater Making",
+       "time": "W 3:30-5:50p"
+     },
+     {
+       "code": "LACA 1504N",
+       "enrollment status": true,
+       "instructor": "TBD",
+       "name": "Writing the Amazon and the End of the World: Gender, Care, and Cosmopolitics",
+       "time": "F 3-5:30p"
+     },
+     {
+       "code": "ARCH 2610",
+       "enrollment status": true,
+       "instructor": "T. Franconi",
+       "name": "From Hilltop to Caput Mundi: The Archaeology of the Roman World",
+       "time": "M 3-5:30p"
+     },
+     {
+       "code": "IAPA 1700R",
+       "enrollment status": true,
+       "instructor": "V. Michelman",
+       "name": "Inequality, Policy, and Economics",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "IAPA 1700T",
+       "enrollment status": true,
+       "instructor": "N. Xiang",
+       "name": "Politics of Public Health: The United States in Comparative Perspective",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "IAPA 1700P",
+       "enrollment status": true,
+       "instructor": "B. Sackett",
+       "name": "Displaced:  How Global Systems Shape Refugee Families",
+       "time": "T 4-6:30p"
+     },
+     {
+       "code": "POLS 2450",
+       "enrollment status": false,
+       "instructor": "TBD",
+       "name": "Exchange Scholar Program",
+       "time": "TBA"
+     },
+     {
+       "code": "GNSS 1101",
+       "enrollment status": true,
+       "instructor": "L. Scott",
+       "name": "A Gender Perspective on Women and Enterprise",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "COLT 0811I",
+       "enrollment status": true,
+       "instructor": "M. Ierulli",
+       "name": "Classical Mythology and the Western Tradition",
+       "time": "MWF 9-9:50a"
+     },
+     {
+       "code": "MUSC 2090E",
+       "enrollment status": true,
+       "instructor": "E. Lumumba-Kasongo",
+       "name": "Black Feminist Sonic Practices",
+       "time": "Th 4-6:30p"
+     },
+     {
+       "code": "HIAA 2450",
+       "enrollment status": false,
+       "instructor": "TBD",
+       "name": "Exchange Scholar Program",
+       "time": "TBA"
+     },
+     {
+       "code": "MCM 1701W",
+       "enrollment status": false,
+       "instructor": "R. Schneider",
+       "name": "Feminist Inquiries in Time-Based Art",
+       "time": "Th 10a-12:50p"
+     }
+  ]

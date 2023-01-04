@@ -1,0 +1,77 @@
+.searchInputs {
+  margin-top: 105px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search input {
+  background-color: white;
+  border: 0;
+  border-radius: 2px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  font-size: 18px;
+  padding: 15px;
+  height: 30px;
+  width: 300px;
+}
+
+.searchIcon {
+  height: 60px;
+  width: 50px;
+  background-color: white;
+  display: grid;
+  place-items: center;
+  align-items: center;
+}
+
+input:focus {
+  outline: none;
+}
+.searchIcon svg {
+  font-size: 35px;
+}
+
+.searchOutput {
+  margin-top: 20px;
+  width:inherit;
+  height: 200px;
+  background-color: rgb(128, 27, 27);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  overflow: hidden;
+  overflow-y: auto;
+  align-items: center;
+  justify-items: center;
+}
+
+.searchOutput::-webkit-scrollbar {
+  display: none;
+}
+
+.searchOutput .dataItem {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  color: black;
+  justify-content: center;
+  align-items: center;
+}
+
+.dataItem p {
+  margin-left: 10px;
+  justify-content: center;
+}
+a {
+  text-decoration: none;
+  justify-content: center;
+}
+
+a:hover {
+  background-color: rgb(214, 157, 157);
+}
+
+#clearBtn {
+  cursor: pointer;
+}
